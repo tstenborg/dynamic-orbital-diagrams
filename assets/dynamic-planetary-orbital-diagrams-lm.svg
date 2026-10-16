@@ -1,0 +1,870 @@
+<svg version="1.1" width="408" height="260" viewBox="99 70 408 260" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="The anticlockwise orbits of the Solar System's planets viewed from the J2000 north ecliptic pole at JD 2460952.">
+<g id="g1" transform="translate(-96,-68)">
+
+<!-- Reusable components. -->
+<defs>
+<circle id="orbit-node" r="0.6" fill="#000" />
+<circle id="planet-node" r="1.6" fill="#000" stroke="#000" stroke-width="0.75" />
+<circle id="solar-node" r="1.8" fill="none" stroke="#000" stroke-width="0.75" />
+</defs>
+
+<!-- Sun. -->
+<use href="#solar-node" x="282.3" y="254.25" /><!-- Left Sun. -->
+<use href="#solar-node" x="489.7" y="254.25" /><!-- Right Sun. -->
+
+<!-- Planets. -->
+<use href="#planet-node" x="270.533" y="272.925" /><!-- Mercury. -->
+<use href="#planet-node" x="258.667" y="229.050" /><!-- Venus. -->
+<use href="#planet-node" x="329.533" y="245.750" /><!-- Earth. -->
+<use href="#planet-node" x="239.267" y="314.275" /><!-- Mars. -->
+<use href="#planet-node" x="487.200" y="242.000" /><!-- Jupiter. -->
+<use href="#planet-node" x="512.533" y="254.700" /><!-- Saturn.  -->
+<use href="#planet-node" x="514.067" y="214.250" /><!-- Uranus.  -->
+<use href="#planet-node" x="561.400" y="253.650" /><!-- Neptune. -->
+<use href="#planet-node" x="535.200" y="325.600" /><!-- Pluto.   -->
+
+<!-- Orbit, Mercury, pointillist style. -->
+<use href="#orbit-node" x="263.333" y="257.467" />
+<use href="#orbit-node" x="263.467" y="260.467" />
+<use href="#orbit-node" x="263.667" y="254.333" />
+<use href="#orbit-node" x="264.067" y="263.400" />
+<use href="#orbit-node" x="264.667" y="251.133" />
+<use href="#orbit-node" x="265.067" y="266.133" />
+<use href="#orbit-node" x="266.133" y="248.133" />
+<use href="#orbit-node" x="266.467" y="268.533" />
+<use href="#orbit-node" x="268.133" y="270.667" />
+<use href="#orbit-node" x="268.333" y="245.333" />
+<use href="#orbit-node" x="270.067" y="272.467" />
+<use href="#orbit-node" x="271.000" y="242.933" />
+<use href="#orbit-node" x="272.267" y="274.000" />
+<use href="#orbit-node" x="274.267" y="241.000" />
+<use href="#orbit-node" x="274.667" y="275.133" />
+<use href="#orbit-node" x="277.133" y="275.933" />
+<use href="#orbit-node" x="278.000" y="239.733" />
+<use href="#orbit-node" x="279.733" y="276.333" />
+<use href="#orbit-node" x="281.933" y="239.333" />
+<use href="#orbit-node" x="282.400" y="276.333" />
+<use href="#orbit-node" x="285.000" y="275.933" />
+<use href="#orbit-node" x="285.800" y="239.800" />
+<use href="#orbit-node" x="287.600" y="275.133" />
+<use href="#orbit-node" x="289.533" y="241.200" />
+<use href="#orbit-node" x="290.067" y="273.933" />
+<use href="#orbit-node" x="292.400" y="272.400" />
+<use href="#orbit-node" x="292.800" y="243.267" />
+<use href="#orbit-node" x="294.533" y="270.467" />
+<use href="#orbit-node" x="295.533" y="246.000" />
+<use href="#orbit-node" x="296.333" y="268.133" />
+<use href="#orbit-node" x="297.533" y="249.133" />
+<use href="#orbit-node" x="297.800" y="265.467" />
+<use href="#orbit-node" x="298.867" y="252.467" />
+<use href="#orbit-node" x="298.867" y="262.533" />
+<use href="#orbit-node" x="299.467" y="255.933" />
+<use href="#orbit-node" x="299.467" y="259.333" />
+
+<!-- Orbit, Venus, pointillist style. -->
+<use href="#orbit-node" x="247.867" y="254.267" />
+<use href="#orbit-node" x="247.933" y="250.933" />
+<use href="#orbit-node" x="247.933" y="257.600" />
+<use href="#orbit-node" x="248.400" y="247.667" />
+<use href="#orbit-node" x="248.400" y="260.867" />
+<use href="#orbit-node" x="249.133" y="264.067" />
+<use href="#orbit-node" x="249.200" y="244.467" />
+<use href="#orbit-node" x="250.267" y="241.333" />
+<use href="#orbit-node" x="250.267" y="267.200" />
+<use href="#orbit-node" x="251.600" y="270.200" />
+<use href="#orbit-node" x="251.667" y="238.267" />
+<use href="#orbit-node" x="253.267" y="273.067" />
+<use href="#orbit-node" x="253.400" y="235.400" />
+<use href="#orbit-node" x="255.200" y="275.800" />
+<use href="#orbit-node" x="255.267" y="232.733" />
+<use href="#orbit-node" x="257.333" y="278.267" />
+<use href="#orbit-node" x="257.467" y="230.200" />
+<use href="#orbit-node" x="259.733" y="280.533" />
+<use href="#orbit-node" x="259.933" y="227.933" />
+<use href="#orbit-node" x="262.333" y="282.600" />
+<use href="#orbit-node" x="262.533" y="225.867" />
+<use href="#orbit-node" x="265.067" y="284.400" />
+<use href="#orbit-node" x="265.333" y="224.133" />
+<use href="#orbit-node" x="268.000" y="285.867" />
+<use href="#orbit-node" x="268.333" y="222.600" />
+<use href="#orbit-node" x="271.067" y="287.133" />
+<use href="#orbit-node" x="271.400" y="221.400" />
+<use href="#orbit-node" x="274.200" y="288.067" />
+<use href="#orbit-node" x="274.600" y="220.467" />
+<use href="#orbit-node" x="277.467" y="288.667" />
+<use href="#orbit-node" x="277.867" y="219.867" />
+<use href="#orbit-node" x="280.667" y="289.000" />
+<use href="#orbit-node" x="281.200" y="219.600" />
+<use href="#orbit-node" x="284.000" y="289.000" />
+<use href="#orbit-node" x="284.467" y="219.667" />
+<use href="#orbit-node" x="287.267" y="288.667" />
+<use href="#orbit-node" x="287.800" y="220.000" />
+<use href="#orbit-node" x="290.467" y="288.067" />
+<use href="#orbit-node" x="291.000" y="220.667" />
+<use href="#orbit-node" x="293.600" y="287.133" />
+<use href="#orbit-node" x="294.133" y="221.667" />
+<use href="#orbit-node" x="296.667" y="285.933" />
+<use href="#orbit-node" x="297.200" y="222.933" />
+<use href="#orbit-node" x="299.600" y="284.467" />
+<use href="#orbit-node" x="300.133" y="224.467" />
+<use href="#orbit-node" x="302.333" y="282.733" />
+<use href="#orbit-node" x="302.933" y="226.333" />
+<use href="#orbit-node" x="304.933" y="280.667" />
+<use href="#orbit-node" x="305.467" y="228.333" />
+<use href="#orbit-node" x="307.333" y="278.400" />
+<use href="#orbit-node" x="307.867" y="230.667" />
+<use href="#orbit-node" x="309.467" y="276.000" />
+<use href="#orbit-node" x="310.000" y="233.200" />
+<use href="#orbit-node" x="311.400" y="273.333" />
+<use href="#orbit-node" x="311.800" y="235.933" />
+<use href="#orbit-node" x="313.067" y="270.467" />
+<use href="#orbit-node" x="313.467" y="238.800" />
+<use href="#orbit-node" x="314.467" y="267.533" />
+<use href="#orbit-node" x="314.800" y="241.800" />
+<use href="#orbit-node" x="315.600" y="264.400" />
+<use href="#orbit-node" x="315.800" y="244.933" />
+<use href="#orbit-node" x="316.400" y="261.200" />
+<use href="#orbit-node" x="316.533" y="248.133" />
+<use href="#orbit-node" x="316.867" y="257.933" />
+<use href="#orbit-node" x="317.000" y="254.733" />
+<use href="#orbit-node" x="317.067" y="251.400" />
+
+<!-- Orbit, Earth, pointillist style. -->
+<use href="#orbit-node" x="234.467" y="253.333" />
+<use href="#orbit-node" x="234.467" y="256.600" />
+<use href="#orbit-node" x="234.733" y="250.067" />
+<use href="#orbit-node" x="234.733" y="259.933" />
+<use href="#orbit-node" x="235.133" y="246.800" />
+<use href="#orbit-node" x="235.133" y="263.133" />
+<use href="#orbit-node" x="235.800" y="243.533" />
+<use href="#orbit-node" x="235.867" y="266.333" />
+<use href="#orbit-node" x="236.733" y="240.333" />
+<use href="#orbit-node" x="236.733" y="269.533" />
+<use href="#orbit-node" x="237.800" y="237.267" />
+<use href="#orbit-node" x="237.800" y="272.600" />
+<use href="#orbit-node" x="239.133" y="234.200" />
+<use href="#orbit-node" x="239.133" y="275.600" />
+<use href="#orbit-node" x="240.600" y="278.467" />
+<use href="#orbit-node" x="240.667" y="231.267" />
+<use href="#orbit-node" x="242.333" y="281.267" />
+<use href="#orbit-node" x="242.400" y="228.467" />
+<use href="#orbit-node" x="244.200" y="283.933" />
+<use href="#orbit-node" x="244.333" y="225.733" />
+<use href="#orbit-node" x="246.267" y="286.467" />
+<use href="#orbit-node" x="246.467" y="223.133" />
+<use href="#orbit-node" x="248.467" y="288.867" />
+<use href="#orbit-node" x="248.733" y="220.733" />
+<use href="#orbit-node" x="250.867" y="291.067" />
+<use href="#orbit-node" x="251.133" y="218.533" />
+<use href="#orbit-node" x="253.333" y="293.067" />
+<use href="#orbit-node" x="253.800" y="216.400" />
+<use href="#orbit-node" x="256.000" y="295.000" />
+<use href="#orbit-node" x="256.533" y="214.533" />
+<use href="#orbit-node" x="258.800" y="296.667" />
+<use href="#orbit-node" x="259.333" y="212.800" />
+<use href="#orbit-node" x="261.667" y="298.200" />
+<use href="#orbit-node" x="262.333" y="211.333" />
+<use href="#orbit-node" x="264.600" y="299.467" />
+<use href="#orbit-node" x="265.400" y="210.067" />
+<use href="#orbit-node" x="267.667" y="300.600" />
+<use href="#orbit-node" x="268.600" y="208.933" />
+<use href="#orbit-node" x="270.733" y="301.467" />
+<use href="#orbit-node" x="271.800" y="208.133" />
+<use href="#orbit-node" x="273.867" y="302.133" />
+<use href="#orbit-node" x="275.067" y="207.467" />
+<use href="#orbit-node" x="277.067" y="302.600" />
+<use href="#orbit-node" x="278.400" y="207.067" />
+<use href="#orbit-node" x="280.333" y="302.867" />
+<use href="#orbit-node" x="281.667" y="206.933" />
+<use href="#orbit-node" x="283.533" y="302.933" />
+<use href="#orbit-node" x="285.000" y="207.000" />
+<use href="#orbit-node" x="286.733" y="302.867" />
+<use href="#orbit-node" x="288.333" y="207.267" />
+<use href="#orbit-node" x="289.933" y="302.333" />
+<use href="#orbit-node" x="291.667" y="207.800" />
+<use href="#orbit-node" x="293.133" y="301.733" />
+<use href="#orbit-node" x="294.867" y="208.533" />
+<use href="#orbit-node" x="296.200" y="300.867" />
+<use href="#orbit-node" x="298.067" y="209.533" />
+<use href="#orbit-node" x="299.267" y="299.867" />
+<use href="#orbit-node" x="301.133" y="210.733" />
+<use href="#orbit-node" x="302.267" y="298.600" />
+<use href="#orbit-node" x="304.200" y="212.133" />
+<use href="#orbit-node" x="305.133" y="297.200" />
+<use href="#orbit-node" x="307.067" y="213.733" />
+<use href="#orbit-node" x="307.933" y="295.600" />
+<use href="#orbit-node" x="309.867" y="215.533" />
+<use href="#orbit-node" x="310.600" y="293.800" />
+<use href="#orbit-node" x="312.533" y="217.533" />
+<use href="#orbit-node" x="313.200" y="291.800" />
+<use href="#orbit-node" x="315.000" y="219.667" />
+<use href="#orbit-node" x="315.600" y="289.667" />
+<use href="#orbit-node" x="317.333" y="222.000" />
+<use href="#orbit-node" x="317.800" y="287.333" />
+<use href="#orbit-node" x="319.533" y="224.467" />
+<use href="#orbit-node" x="319.933" y="284.867" />
+<use href="#orbit-node" x="321.533" y="227.067" />
+<use href="#orbit-node" x="321.867" y="282.267" />
+<use href="#orbit-node" x="323.333" y="229.800" />
+<use href="#orbit-node" x="323.600" y="279.600" />
+<use href="#orbit-node" x="325.000" y="232.733" />
+<use href="#orbit-node" x="325.200" y="276.733" />
+<use href="#orbit-node" x="326.400" y="235.667" />
+<use href="#orbit-node" x="326.600" y="273.800" />
+<use href="#orbit-node" x="327.600" y="238.733" />
+<use href="#orbit-node" x="327.733" y="270.733" />
+<use href="#orbit-node" x="328.600" y="241.867" />
+<use href="#orbit-node" x="328.733" y="267.666" />
+<use href="#orbit-node" x="329.400" y="245.067" />
+<use href="#orbit-node" x="329.467" y="264.467" />
+<use href="#orbit-node" x="330.000" y="248.267" />
+<use href="#orbit-node" x="330.000" y="261.267" />
+<use href="#orbit-node" x="330.333" y="258.067" />
+<use href="#orbit-node" x="330.400" y="251.533" />
+<use href="#orbit-node" x="330.400" y="254.800" />
+
+<!-- Orbit, Mars, pointillist style. -->
+<use href="#orbit-node" x="202.933" y="251.400" />
+<use href="#orbit-node" x="203.000" y="254.400" />
+<use href="#orbit-node" x="203.067" y="248.400" />
+<use href="#orbit-node" x="203.133" y="257.400" />
+<use href="#orbit-node" x="203.333" y="245.400" />
+<use href="#orbit-node" x="203.467" y="242.400" />
+<use href="#orbit-node" x="203.533" y="260.400" />
+<use href="#orbit-node" x="203.933" y="239.400" />
+<use href="#orbit-node" x="204.000" y="263.400" />
+<use href="#orbit-node" x="204.467" y="236.467" />
+<use href="#orbit-node" x="204.533" y="266.400" />
+<use href="#orbit-node" x="205.133" y="233.533" />
+<use href="#orbit-node" x="205.267" y="269.333" />
+<use href="#orbit-node" x="205.933" y="230.667" />
+<use href="#orbit-node" x="206.067" y="272.267" />
+<use href="#orbit-node" x="206.800" y="227.800" />
+<use href="#orbit-node" x="207.067" y="275.200" />
+<use href="#orbit-node" x="207.867" y="225.000" />
+<use href="#orbit-node" x="208.133" y="278.067" />
+<use href="#orbit-node" x="209.000" y="222.267" />
+<use href="#orbit-node" x="209.333" y="280.933" />
+<use href="#orbit-node" x="210.200" y="219.533" />
+<use href="#orbit-node" x="210.600" y="283.733" />
+<use href="#orbit-node" x="211.600" y="216.867" />
+<use href="#orbit-node" x="212.067" y="286.467" />
+<use href="#orbit-node" x="213.067" y="214.267" />
+<use href="#orbit-node" x="213.667" y="289.133" />
+<use href="#orbit-node" x="214.600" y="211.733" />
+<use href="#orbit-node" x="215.333" y="291.733" />
+<use href="#orbit-node" x="216.333" y="209.267" />
+<use href="#orbit-node" x="217.133" y="294.333" />
+<use href="#orbit-node" x="218.067" y="206.800" />
+<use href="#orbit-node" x="219.000" y="296.800" />
+<use href="#orbit-node" x="219.933" y="204.533" />
+<use href="#orbit-node" x="221.067" y="299.200" />
+<use href="#orbit-node" x="221.933" y="202.267" />
+<use href="#orbit-node" x="223.133" y="301.533" />
+<use href="#orbit-node" x="224.000" y="200.067" />
+<use href="#orbit-node" x="225.400" y="303.800" />
+<use href="#orbit-node" x="226.200" y="197.933" />
+<use href="#orbit-node" x="227.733" y="305.933" />
+<use href="#orbit-node" x="228.400" y="196.000" />
+<use href="#orbit-node" x="230.200" y="308.000" />
+<use href="#orbit-node" x="230.733" y="194.067" />
+<use href="#orbit-node" x="232.733" y="309.933" />
+<use href="#orbit-node" x="233.200" y="192.267" />
+<use href="#orbit-node" x="235.333" y="311.800" />
+<use href="#orbit-node" x="235.667" y="190.533" />
+<use href="#orbit-node" x="238.067" y="313.533" />
+<use href="#orbit-node" x="238.267" y="188.933" />
+<use href="#orbit-node" x="240.867" y="187.400" />
+<use href="#orbit-node" x="240.933" y="315.200" />
+<use href="#orbit-node" x="243.600" y="186.000" />
+<use href="#orbit-node" x="243.800" y="316.667" />
+<use href="#orbit-node" x="246.400" y="184.733" />
+<use href="#orbit-node" x="246.733" y="318.067" />
+<use href="#orbit-node" x="249.200" y="183.533" />
+<use href="#orbit-node" x="249.800" y="319.333" />
+<use href="#orbit-node" x="252.067" y="182.467" />
+<use href="#orbit-node" x="252.933" y="320.467" />
+<use href="#orbit-node" x="255.000" y="181.533" />
+<use href="#orbit-node" x="256.133" y="321.400" />
+<use href="#orbit-node" x="258.000" y="180.733" />
+<use href="#orbit-node" x="259.333" y="322.267" />
+<use href="#orbit-node" x="261.067" y="180.000" />
+<use href="#orbit-node" x="262.600" y="322.933" />
+<use href="#orbit-node" x="264.067" y="179.467" />
+<use href="#orbit-node" x="265.933" y="323.533" />
+<use href="#orbit-node" x="267.200" y="179.000" />
+<use href="#orbit-node" x="269.267" y="323.933" />
+<use href="#orbit-node" x="270.333" y="178.733" />
+<use href="#orbit-node" x="272.600" y="324.067" />
+<use href="#orbit-node" x="273.467" y="178.533" />
+<use href="#orbit-node" x="276.067" y="324.200" />
+<use href="#orbit-node" x="276.600" y="178.533" />
+<use href="#orbit-node" x="279.467" y="324.200" />
+<use href="#orbit-node" x="279.800" y="178.733" />
+<use href="#orbit-node" x="282.867" y="324.067" />
+<use href="#orbit-node" x="282.933" y="178.867" />
+<use href="#orbit-node" x="286.133" y="179.267" />
+<use href="#orbit-node" x="286.267" y="323.533" />
+<use href="#orbit-node" x="289.267" y="179.733" />
+<use href="#orbit-node" x="289.667" y="323.000" />
+<use href="#orbit-node" x="292.400" y="180.400" />
+<use href="#orbit-node" x="293.067" y="322.267" />
+<use href="#orbit-node" x="295.533" y="181.200" />
+<use href="#orbit-node" x="296.467" y="321.400" />
+<use href="#orbit-node" x="298.667" y="182.200" />
+<use href="#orbit-node" x="299.800" y="320.333" />
+<use href="#orbit-node" x="301.733" y="183.267" />
+<use href="#orbit-node" x="303.067" y="319.133" />
+<use href="#orbit-node" x="304.733" y="184.467" />
+<use href="#orbit-node" x="306.333" y="317.733" />
+<use href="#orbit-node" x="307.733" y="185.867" />
+<use href="#orbit-node" x="309.467" y="316.200" />
+<use href="#orbit-node" x="310.667" y="187.333" />
+<use href="#orbit-node" x="312.600" y="314.533" />
+<use href="#orbit-node" x="313.600" y="189.000" />
+<use href="#orbit-node" x="315.600" y="312.733" />
+<use href="#orbit-node" x="316.400" y="190.733" />
+<use href="#orbit-node" x="318.533" y="310.733" />
+<use href="#orbit-node" x="319.133" y="192.667" />
+<use href="#orbit-node" x="321.400" y="308.600" />
+<use href="#orbit-node" x="321.800" y="194.733" />
+<use href="#orbit-node" x="324.200" y="306.333" />
+<use href="#orbit-node" x="324.333" y="196.867" />
+<use href="#orbit-node" x="326.800" y="303.933" />
+<use href="#orbit-node" x="326.867" y="199.133" />
+<use href="#orbit-node" x="329.200" y="201.600" />
+<use href="#orbit-node" x="329.333" y="301.333" />
+<use href="#orbit-node" x="331.533" y="204.133" />
+<use href="#orbit-node" x="331.733" y="298.667" />
+<use href="#orbit-node" x="333.667" y="206.800" />
+<use href="#orbit-node" x="334.000" y="295.867" />
+<use href="#orbit-node" x="335.733" y="209.533" />
+<use href="#orbit-node" x="336.067" y="293.000" />
+<use href="#orbit-node" x="337.667" y="212.400" />
+<use href="#orbit-node" x="338.067" y="290.000" />
+<use href="#orbit-node" x="339.400" y="215.333" />
+<use href="#orbit-node" x="339.933" y="286.867" />
+<use href="#orbit-node" x="341.067" y="218.400" />
+<use href="#orbit-node" x="341.600" y="283.667" />
+<use href="#orbit-node" x="342.600" y="221.600" />
+<use href="#orbit-node" x="343.133" y="280.400" />
+<use href="#orbit-node" x="343.933" y="224.800" />
+<use href="#orbit-node" x="344.467" y="277.067" />
+<use href="#orbit-node" x="345.200" y="228.067" />
+<use href="#orbit-node" x="345.667" y="273.667" />
+<use href="#orbit-node" x="346.267" y="231.400" />
+<use href="#orbit-node" x="346.667" y="270.200" />
+<use href="#orbit-node" x="347.133" y="234.867" />
+<use href="#orbit-node" x="347.467" y="266.733" />
+<use href="#orbit-node" x="347.867" y="238.267" />
+<use href="#orbit-node" x="348.133" y="263.200" />
+<use href="#orbit-node" x="348.400" y="241.800" />
+<use href="#orbit-node" x="348.667" y="259.600" />
+<use href="#orbit-node" x="348.933" y="245.333" />
+<use href="#orbit-node" x="348.933" y="256.067" />
+<use href="#orbit-node" x="349.067" y="248.933" />
+<use href="#orbit-node" x="349.067" y="252.467" />
+
+<!-- Orbit, Jupiter, pointillist style. -->
+<use href="#orbit-node" x="476.667" y="255.733" />
+<use href="#orbit-node" x="476.733" y="252.600" />
+<use href="#orbit-node" x="477.400" y="258.733" />
+<use href="#orbit-node" x="477.533" y="249.600" />
+<use href="#orbit-node" x="478.867" y="261.467" />
+<use href="#orbit-node" x="479.067" y="246.867" />
+<use href="#orbit-node" x="481.000" y="263.800" />
+<use href="#orbit-node" x="481.267" y="244.533" />
+<use href="#orbit-node" x="483.600" y="265.533" />
+<use href="#orbit-node" x="484.000" y="242.867" />
+<use href="#orbit-node" x="486.667" y="266.533" />
+<use href="#orbit-node" x="487.133" y="242.000" />
+<use href="#orbit-node" x="489.867" y="266.733" />
+<use href="#orbit-node" x="490.467" y="241.867" />
+<use href="#orbit-node" x="493.000" y="266.133" />
+<use href="#orbit-node" x="493.667" y="242.667" />
+<use href="#orbit-node" x="496.000" y="264.667" />
+<use href="#orbit-node" x="496.600" y="244.333" />
+<use href="#orbit-node" x="498.467" y="262.467" />
+<use href="#orbit-node" x="499.000" y="246.733" />
+<use href="#orbit-node" x="500.333" y="259.667" />
+<use href="#orbit-node" x="500.667" y="249.733" />
+<use href="#orbit-node" x="501.400" y="256.467" />
+<use href="#orbit-node" x="501.533" y="253.000" />
+
+<!-- Orbit, Saturn, pointillist style. -->
+<use href="#orbit-node" x="466.933" y="256.867" />
+<use href="#orbit-node" x="467.067" y="253.600" />
+<use href="#orbit-node" x="467.400" y="260.067" />
+<use href="#orbit-node" x="467.467" y="250.333" />
+<use href="#orbit-node" x="468.267" y="263.133" />
+<use href="#orbit-node" x="468.400" y="247.133" />
+<use href="#orbit-node" x="469.533" y="266.067" />
+<use href="#orbit-node" x="469.800" y="244.133" />
+<use href="#orbit-node" x="471.200" y="268.733" />
+<use href="#orbit-node" x="471.667" y="241.333" />
+<use href="#orbit-node" x="473.200" y="271.200" />
+<use href="#orbit-node" x="473.933" y="238.800" />
+<use href="#orbit-node" x="475.533" y="273.267" />
+<use href="#orbit-node" x="476.600" y="236.600" />
+<use href="#orbit-node" x="478.133" y="275.067" />
+<use href="#orbit-node" x="479.533" y="234.867" />
+<use href="#orbit-node" x="480.933" y="276.467" />
+<use href="#orbit-node" x="482.733" y="233.600" />
+<use href="#orbit-node" x="483.867" y="277.467" />
+<use href="#orbit-node" x="486.067" y="232.800" />
+<use href="#orbit-node" x="486.867" y="278.200" />
+<use href="#orbit-node" x="489.467" y="232.466" />
+<use href="#orbit-node" x="490.000" y="278.267" />
+<use href="#orbit-node" x="492.933" y="232.733" />
+<use href="#orbit-node" x="493.067" y="278.000" />
+<use href="#orbit-node" x="496.067" y="277.333" />
+<use href="#orbit-node" x="496.267" y="233.467" />
+<use href="#orbit-node" x="499.000" y="276.267" />
+<use href="#orbit-node" x="499.467" y="234.667" />
+<use href="#orbit-node" x="501.733" y="274.800" />
+<use href="#orbit-node" x="502.467" y="236.400" />
+<use href="#orbit-node" x="504.267" y="273.000" />
+<use href="#orbit-node" x="505.133" y="238.467" />
+<use href="#orbit-node" x="506.533" y="270.800" />
+<use href="#orbit-node" x="507.467" y="240.933" />
+<use href="#orbit-node" x="508.533" y="268.333" />
+<use href="#orbit-node" x="509.333" y="243.733" />
+<use href="#orbit-node" x="510.133" y="265.667" />
+<use href="#orbit-node" x="510.867" y="246.667" />
+<use href="#orbit-node" x="511.333" y="262.667" />
+<use href="#orbit-node" x="511.867" y="249.867" />
+<use href="#orbit-node" x="512.200" y="259.600" />
+<use href="#orbit-node" x="512.467" y="253.067" />
+<use href="#orbit-node" x="512.533" y="256.333" />
+
+<!-- Orbit, Uranus, pointillist style. -->
+<use href="#orbit-node" x="445.800" y="253.333" />
+<use href="#orbit-node" x="445.800" y="256.733" />
+<use href="#orbit-node" x="446.000" y="249.867" />
+<use href="#orbit-node" x="446.133" y="260.200" />
+<use href="#orbit-node" x="446.467" y="246.467" />
+<use href="#orbit-node" x="446.667" y="263.533" />
+<use href="#orbit-node" x="447.200" y="243.067" />
+<use href="#orbit-node" x="447.467" y="266.867" />
+<use href="#orbit-node" x="448.200" y="239.800" />
+<use href="#orbit-node" x="448.533" y="270.133" />
+<use href="#orbit-node" x="449.400" y="236.600" />
+<use href="#orbit-node" x="449.800" y="273.333" />
+<use href="#orbit-node" x="450.867" y="233.467" />
+<use href="#orbit-node" x="451.333" y="276.400" />
+<use href="#orbit-node" x="452.533" y="230.467" />
+<use href="#orbit-node" x="453.067" y="279.333" />
+<use href="#orbit-node" x="454.400" y="227.600" />
+<use href="#orbit-node" x="455.000" y="282.133" />
+<use href="#orbit-node" x="456.533" y="224.933" />
+<use href="#orbit-node" x="457.133" y="284.733" />
+<use href="#orbit-node" x="458.800" y="222.400" />
+<use href="#orbit-node" x="459.467" y="287.200" />
+<use href="#orbit-node" x="461.267" y="220.000" />
+<use href="#orbit-node" x="461.933" y="289.467" />
+<use href="#orbit-node" x="463.933" y="217.867" />
+<use href="#orbit-node" x="464.600" y="291.533" />
+<use href="#orbit-node" x="466.667" y="215.933" />
+<use href="#orbit-node" x="467.333" y="293.467" />
+<use href="#orbit-node" x="469.600" y="214.200" />
+<use href="#orbit-node" x="470.267" y="295.133" />
+<use href="#orbit-node" x="472.600" y="212.667" />
+<use href="#orbit-node" x="473.267" y="296.533" />
+<use href="#orbit-node" x="475.733" y="211.400" />
+<use href="#orbit-node" x="476.600" y="297.867" />
+<use href="#orbit-node" x="478.933" y="210.333" />
+<use href="#orbit-node" x="479.733" y="298.867" />
+<use href="#orbit-node" x="482.133" y="209.467" />
+<use href="#orbit-node" x="483.000" y="299.600" />
+<use href="#orbit-node" x="485.400" y="208.933" />
+<use href="#orbit-node" x="486.200" y="300.133" />
+<use href="#orbit-node" x="488.733" y="208.600" />
+<use href="#orbit-node" x="489.467" y="300.400" />
+<use href="#orbit-node" x="492.067" y="208.600" />
+<use href="#orbit-node" x="492.733" y="300.467" />
+<use href="#orbit-node" x="495.333" y="208.600" />
+<use href="#orbit-node" x="496.000" y="300.267" />
+<use href="#orbit-node" x="498.600" y="209.000" />
+<use href="#orbit-node" x="499.200" y="299.867" />
+<use href="#orbit-node" x="501.867" y="209.600" />
+<use href="#orbit-node" x="502.400" y="299.267" />
+<use href="#orbit-node" x="505.000" y="210.400" />
+<use href="#orbit-node" x="505.467" y="298.400" />
+<use href="#orbit-node" x="508.067" y="211.467" />
+<use href="#orbit-node" x="508.533" y="297.333" />
+<use href="#orbit-node" x="511.067" y="212.667" />
+<use href="#orbit-node" x="511.467" y="296.067" />
+<use href="#orbit-node" x="514.000" y="214.133" />
+<use href="#orbit-node" x="514.267" y="294.600" />
+<use href="#orbit-node" x="516.733" y="215.800" />
+<use href="#orbit-node" x="517.000" y="293.000" />
+<use href="#orbit-node" x="519.400" y="217.667" />
+<use href="#orbit-node" x="519.600" y="291.133" />
+<use href="#orbit-node" x="521.867" y="219.667" />
+<use href="#orbit-node" x="522.067" y="289.133" />
+<use href="#orbit-node" x="524.267" y="221.800" />
+<use href="#orbit-node" x="524.400" y="287.000" />
+<use href="#orbit-node" x="526.400" y="224.133" />
+<use href="#orbit-node" x="526.533" y="284.667" />
+<use href="#orbit-node" x="528.467" y="226.600" />
+<use href="#orbit-node" x="528.533" y="282.267" />
+<use href="#orbit-node" x="530.267" y="229.200" />
+<use href="#orbit-node" x="530.333" y="279.667" />
+<use href="#orbit-node" x="531.933" y="231.867" />
+<use href="#orbit-node" x="532.000" y="277.000" />
+<use href="#orbit-node" x="533.400" y="234.667" />
+<use href="#orbit-node" x="533.400" y="274.200" />
+<use href="#orbit-node" x="534.667" y="237.600" />
+<use href="#orbit-node" x="534.667" y="271.333" />
+<use href="#orbit-node" x="535.733" y="240.533" />
+<use href="#orbit-node" x="535.733" y="268.333" />
+<use href="#orbit-node" x="536.533" y="243.600" />
+<use href="#orbit-node" x="536.533" y="265.333" />
+<use href="#orbit-node" x="537.200" y="246.667" />
+<use href="#orbit-node" x="537.200" y="262.267" />
+<use href="#orbit-node" x="537.600" y="249.800" />
+<use href="#orbit-node" x="537.600" y="259.133" />
+<use href="#orbit-node" x="537.867" y="252.933" />
+<use href="#orbit-node" x="537.867" y="256.067" />
+
+<!-- Orbit, Neptune, pointillist style. -->
+<use href="#orbit-node" x="417.07" y="253.00" />
+<use href="#orbit-node" x="417.20" y="256.27" />
+<use href="#orbit-node" x="417.20" y="258.80" />
+<use href="#orbit-node" x="417.27" y="249.80" />
+<use href="#orbit-node" x="417.47" y="262.00" />
+<use href="#orbit-node" x="417.53" y="246.60" />
+<use href="#orbit-node" x="417.87" y="265.20" />
+<use href="#orbit-node" x="417.93" y="243.40" />
+<use href="#orbit-node" x="418.40" y="268.40" />
+<use href="#orbit-node" x="418.53" y="240.20" />
+<use href="#orbit-node" x="419.13" y="271.53" />
+<use href="#orbit-node" x="419.20" y="237.07" />
+<use href="#orbit-node" x="419.93" y="274.67" />
+<use href="#orbit-node" x="420.07" y="233.93" />
+<use href="#orbit-node" x="420.93" y="277.73" />
+<use href="#orbit-node" x="421.07" y="230.87" />
+<use href="#orbit-node" x="422.00" y="280.73" />
+<use href="#orbit-node" x="422.20" y="227.87" />
+<use href="#orbit-node" x="423.27" y="283.73" />
+<use href="#orbit-node" x="423.47" y="224.87" />
+<use href="#orbit-node" x="424.60" y="286.60" />
+<use href="#orbit-node" x="424.87" y="222.00" />
+<use href="#orbit-node" x="426.07" y="289.47" />
+<use href="#orbit-node" x="426.40" y="219.13" />
+<use href="#orbit-node" x="427.73" y="292.27" />
+<use href="#orbit-node" x="428.00" y="216.33" />
+<use href="#orbit-node" x="429.47" y="294.93" />
+<use href="#orbit-node" x="429.80" y="213.60" />
+<use href="#orbit-node" x="431.33" y="297.60" />
+<use href="#orbit-node" x="431.67" y="211.00" />
+<use href="#orbit-node" x="433.27" y="300.13" />
+<use href="#orbit-node" x="433.73" y="208.47" />
+<use href="#orbit-node" x="435.40" y="302.53" />
+<use href="#orbit-node" x="435.87" y="206.00" />
+<use href="#orbit-node" x="437.60" y="304.93" />
+<use href="#orbit-node" x="438.07" y="203.67" />
+<use href="#orbit-node" x="439.87" y="307.20" />
+<use href="#orbit-node" x="440.40" y="201.40" />
+<use href="#orbit-node" x="442.27" y="309.33" />
+<use href="#orbit-node" x="442.87" y="199.27" />
+<use href="#orbit-node" x="444.73" y="311.33" />
+<use href="#orbit-node" x="445.40" y="197.27" />
+<use href="#orbit-node" x="447.33" y="313.27" />
+<use href="#orbit-node" x="448.00" y="195.33" />
+<use href="#orbit-node" x="450.00" y="315.07" />
+<use href="#orbit-node" x="450.73" y="193.53" />
+<use href="#orbit-node" x="452.73" y="316.80" />
+<use href="#orbit-node" x="453.47" y="191.87" />
+<use href="#orbit-node" x="455.53" y="318.33" />
+<use href="#orbit-node" x="456.33" y="190.33" />
+<use href="#orbit-node" x="458.40" y="319.80" />
+<use href="#orbit-node" x="459.27" y="188.93" />
+<use href="#orbit-node" x="461.33" y="321.13" />
+<use href="#orbit-node" x="462.27" y="187.67" />
+<use href="#orbit-node" x="464.33" y="322.27" />
+<use href="#orbit-node" x="465.33" y="186.47" />
+<use href="#orbit-node" x="467.40" y="323.33" />
+<use href="#orbit-node" x="468.40" y="185.47" />
+<use href="#orbit-node" x="470.47" y="324.20" />
+<use href="#orbit-node" x="471.53" y="184.60" />
+<use href="#orbit-node" x="473.60" y="325.00" />
+<use href="#orbit-node" x="474.73" y="183.87" />
+<use href="#orbit-node" x="476.73" y="325.60" />
+<use href="#orbit-node" x="477.93" y="183.33" />
+<use href="#orbit-node" x="479.93" y="326.13" />
+<use href="#orbit-node" x="481.13" y="182.87" />
+<use href="#orbit-node" x="483.13" y="326.47" />
+<use href="#orbit-node" x="484.40" y="182.60" />
+<use href="#orbit-node" x="486.33" y="326.67" />
+<use href="#orbit-node" x="487.67" y="182.47" />
+<use href="#orbit-node" x="489.60" y="326.73" />
+<use href="#orbit-node" x="490.93" y="182.47" />
+<use href="#orbit-node" x="492.80" y="326.67" />
+<use href="#orbit-node" x="494.20" y="182.60" />
+<use href="#orbit-node" x="496.00" y="326.40" />
+<use href="#orbit-node" x="497.40" y="182.87" />
+<use href="#orbit-node" x="499.20" y="326.00" />
+<use href="#orbit-node" x="500.67" y="183.33" />
+<use href="#orbit-node" x="502.40" y="325.53" />
+<use href="#orbit-node" x="503.87" y="183.93" />
+<use href="#orbit-node" x="505.53" y="324.87" />
+<use href="#orbit-node" x="507.07" y="184.67" />
+<use href="#orbit-node" x="508.67" y="324.07" />
+<use href="#orbit-node" x="510.20" y="185.53" />
+<use href="#orbit-node" x="511.80" y="323.13" />
+<use href="#orbit-node" x="513.33" y="186.60" />
+<use href="#orbit-node" x="514.80" y="322.07" />
+<use href="#orbit-node" x="516.33" y="187.73" />
+<use href="#orbit-node" x="517.80" y="320.80" />
+<use href="#orbit-node" x="519.33" y="189.00" />
+<use href="#orbit-node" x="520.73" y="319.47" />
+<use href="#orbit-node" x="522.33" y="190.47" />
+<use href="#orbit-node" x="523.60" y="318.00" />
+<use href="#orbit-node" x="525.20" y="192.00" />
+<use href="#orbit-node" x="526.47" y="316.40" />
+<use href="#orbit-node" x="528.00" y="193.73" />
+<use href="#orbit-node" x="529.20" y="314.67" />
+<use href="#orbit-node" x="530.67" y="195.53" />
+<use href="#orbit-node" x="531.80" y="312.80" />
+<use href="#orbit-node" x="533.33" y="197.47" />
+<use href="#orbit-node" x="534.40" y="310.87" />
+<use href="#orbit-node" x="535.87" y="199.53" />
+<use href="#orbit-node" x="536.87" y="308.80" />
+<use href="#orbit-node" x="538.33" y="201.73" />
+<use href="#orbit-node" x="539.27" y="306.60" />
+<use href="#orbit-node" x="540.67" y="204.00" />
+<use href="#orbit-node" x="541.53" y="304.27" />
+<use href="#orbit-node" x="542.87" y="206.40" />
+<use href="#orbit-node" x="543.73" y="301.87" />
+<use href="#orbit-node" x="545.00" y="208.87" />
+<use href="#orbit-node" x="545.80" y="299.40" />
+<use href="#orbit-node" x="547.07" y="211.47" />
+<use href="#orbit-node" x="547.73" y="296.80" />
+<use href="#orbit-node" x="548.93" y="214.13" />
+<use href="#orbit-node" x="549.60" y="294.13" />
+<use href="#orbit-node" x="550.73" y="216.87" />
+<use href="#orbit-node" x="551.33" y="291.33" />
+<use href="#orbit-node" x="552.33" y="219.67" />
+<use href="#orbit-node" x="552.93" y="288.53" />
+<use href="#orbit-node" x="553.87" y="222.60" />
+<use href="#orbit-node" x="554.40" y="285.60" />
+<use href="#orbit-node" x="555.27" y="225.53" />
+<use href="#orbit-node" x="555.67" y="282.67" />
+<use href="#orbit-node" x="556.53" y="228.53" />
+<use href="#orbit-node" x="556.87" y="279.60" />
+<use href="#orbit-node" x="557.60" y="231.60" />
+<use href="#orbit-node" x="557.93" y="276.53" />
+<use href="#orbit-node" x="558.60" y="234.73" />
+<use href="#orbit-node" x="558.87" y="273.40" />
+<use href="#orbit-node" x="559.40" y="237.93" />
+<use href="#orbit-node" x="559.67" y="270.27" />
+<use href="#orbit-node" x="560.13" y="241.13" />
+<use href="#orbit-node" x="560.27" y="267.07" />
+<use href="#orbit-node" x="560.67" y="244.33" />
+<use href="#orbit-node" x="560.80" y="263.87" />
+<use href="#orbit-node" x="561.00" y="247.60" />
+<use href="#orbit-node" x="561.13" y="260.60" />
+<use href="#orbit-node" x="561.27" y="250.80" />
+<use href="#orbit-node" x="561.33" y="257.33" />
+<use href="#orbit-node" x="561.40" y="254.07" />
+
+<!-- Orbit, Pluto, pointillist style. -->
+<use href="#orbit-node" x="416.133" y="234.133" r="0.5" />
+<use href="#orbit-node" x="416.133" y="238.067" r="0.5" />
+<use href="#orbit-node" x="416.267" y="242.000" r="0.5" />
+<use href="#orbit-node" x="416.400" y="230.267" r="0.5" />
+<use href="#orbit-node" x="416.400" y="246.000" r="0.5" />
+<use href="#orbit-node" x="416.800" y="226.400" r="0.5" />
+<use href="#orbit-node" x="416.800" y="250.000" r="0.5" />
+<use href="#orbit-node" x="417.333" y="222.667" r="0.5" />
+<use href="#orbit-node" x="417.333" y="254.000" r="0.5" />
+<use href="#orbit-node" x="418.067" y="218.933" r="0.5" />
+<use href="#orbit-node" x="418.133" y="258.000" r="0.5" />
+<use href="#orbit-node" x="418.867" y="215.333" r="0.5" />
+<use href="#orbit-node" x="419.067" y="262.000" r="0.5" />
+<use href="#orbit-node" x="419.800" y="211.733" r="0.5" />
+<use href="#orbit-node" x="420.133" y="266.000" r="0.5" />
+<use href="#orbit-node" x="420.867" y="208.267" r="0.5" />
+<use href="#orbit-node" x="421.467" y="269.933" r="0.5" />
+<use href="#orbit-node" x="422.133" y="204.867" r="0.5" />
+<use href="#orbit-node" x="422.933" y="273.800" r="0.5" />
+<use href="#orbit-node" x="423.400" y="201.533" r="0.5" />
+<use href="#orbit-node" x="424.600" y="277.667" r="0.5" />
+<use href="#orbit-node" x="424.867" y="198.267" r="0.5" />
+<use href="#orbit-node" x="426.400" y="195.133" r="0.5" />
+<use href="#orbit-node" x="426.400" y="281.467" r="0.5" />
+<use href="#orbit-node" x="428.000" y="192.067" r="0.5" />
+<use href="#orbit-node" x="428.400" y="285.200" r="0.5" />
+<use href="#orbit-node" x="429.733" y="189.067" r="0.5" />
+<use href="#orbit-node" x="430.600" y="288.800" r="0.5" />
+<use href="#orbit-node" x="431.533" y="186.200" r="0.5" />
+<use href="#orbit-node" x="432.933" y="292.333" r="0.5" />
+<use href="#orbit-node" x="433.400" y="183.467" r="0.5" />
+<use href="#orbit-node" x="435.400" y="180.733" r="0.5" />
+<use href="#orbit-node" x="435.400" y="295.733" r="0.5" />
+<use href="#orbit-node" x="437.400" y="178.200" r="0.5" />
+<use href="#orbit-node" x="438.067" y="299.067" r="0.5" />
+<use href="#orbit-node" x="439.533" y="175.667" r="0.5" />
+<use href="#orbit-node" x="440.867" y="302.267" r="0.5" />
+<use href="#orbit-node" x="441.733" y="173.333" r="0.5" />
+<use href="#orbit-node" x="443.800" y="305.267" r="0.5" />
+<use href="#orbit-node" x="443.933" y="171.067" r="0.5" />
+<use href="#orbit-node" x="446.200" y="168.867" r="0.5" />
+<use href="#orbit-node" x="446.867" y="308.133" r="0.5" />
+<use href="#orbit-node" x="448.600" y="166.800" r="0.5" />
+<use href="#orbit-node" x="450.067" y="310.933" r="0.5" />
+<use href="#orbit-node" x="450.933" y="164.800" r="0.5" />
+<use href="#orbit-node" x="453.400" y="162.933" r="0.5" />
+<use href="#orbit-node" x="453.400" y="313.467" r="0.5" />
+<use href="#orbit-node" x="455.867" y="161.133" r="0.5" />
+<use href="#orbit-node" x="456.800" y="315.867" r="0.5" />
+<use href="#orbit-node" x="458.400" y="159.500" r="0.5" />
+<use href="#orbit-node" x="460.333" y="318.133" r="0.5" />
+<use href="#orbit-node" x="460.933" y="157.867" r="0.5" />
+<use href="#orbit-node" x="463.467" y="156.400" r="0.5" />
+<use href="#orbit-node" x="463.867" y="320.200" r="0.5" />
+<use href="#orbit-node" x="466.067" y="155.000" r="0.5" />
+<use href="#orbit-node" x="467.533" y="322.067" r="0.5" />
+<use href="#orbit-node" x="468.667" y="153.733" r="0.5" />
+<use href="#orbit-node" x="471.267" y="323.733" r="0.5" />
+<use href="#orbit-node" x="471.333" y="152.533" r="0.5" />
+<use href="#orbit-node" x="474.000" y="151.467" r="0.5" />
+<use href="#orbit-node" x="475.067" y="325.267" r="0.5" />
+<use href="#orbit-node" x="476.667" y="150.467" r="0.5" />
+<use href="#orbit-node" x="478.867" y="326.600" r="0.5" />
+<use href="#orbit-node" x="479.333" y="149.533" r="0.5" />
+<use href="#orbit-node" x="482.000" y="148.733" r="0.5" />
+<use href="#orbit-node" x="482.667" y="327.733" r="0.5" />
+<use href="#orbit-node" x="484.733" y="148.000" r="0.5" />
+<use href="#orbit-node" x="486.533" y="328.667" r="0.5" />
+<use href="#orbit-node" x="487.400" y="147.333" r="0.5" />
+<use href="#orbit-node" x="490.133" y="146.800" r="0.5" />
+<use href="#orbit-node" x="490.400" y="329.467" r="0.5" />
+<use href="#orbit-node" x="492.800" y="146.333" r="0.5" />
+<use href="#orbit-node" x="494.200" y="330.000" r="0.5" />
+<use href="#orbit-node" x="495.533" y="146.000" r="0.5" />
+<use href="#orbit-node" x="498.067" y="330.467" r="0.5" />
+<use href="#orbit-node" x="498.200" y="145.733" r="0.5" />
+<use href="#orbit-node" x="500.933" y="145.667" r="0.5" />
+<use href="#orbit-node" x="501.867" y="330.667" r="0.5" />
+<use href="#orbit-node" x="503.600" y="145.400" r="0.5" />
+<use href="#orbit-node" x="505.667" y="330.800" r="0.5" />
+<use href="#orbit-node" x="506.267" y="145.400" r="0.5" />
+<use href="#orbit-node" x="508.933" y="145.400" r="0.5" />
+<use href="#orbit-node" x="509.467" y="330.667" r="0.5" />
+<use href="#orbit-node" x="511.866" y="145.600" r="0.5" />
+<use href="#orbit-node" x="513.200" y="330.400" r="0.5" />
+<use href="#orbit-node" x="514.533" y="145.800" r="0.5" />
+<use href="#orbit-node" x="516.867" y="330.000" r="0.5" />
+<use href="#orbit-node" x="517.133" y="146.067" r="0.5" />
+<use href="#orbit-node" x="519.733" y="146.467" r="0.5" />
+<use href="#orbit-node" x="520.467" y="329.467" r="0.5" />
+<use href="#orbit-node" x="522.267" y="146.933" r="0.5" />
+<use href="#orbit-node" x="524.000" y="328.800" r="0.5" />
+<use href="#orbit-node" x="524.800" y="147.467" r="0.5" />
+<use href="#orbit-node" x="527.333" y="148.067" r="0.5" />
+<use href="#orbit-node" x="527.533" y="327.933" r="0.5" />
+<use href="#orbit-node" x="529.800" y="148.733" r="0.5" />
+<use href="#orbit-node" x="530.933" y="326.933" r="0.5" />
+<use href="#orbit-node" x="532.267" y="149.467" r="0.5" />
+<use href="#orbit-node" x="534.333" y="325.867" r="0.5" />
+<use href="#orbit-node" x="534.733" y="150.267" r="0.5" />
+<use href="#orbit-node" x="537.133" y="151.200" r="0.5" />
+<use href="#orbit-node" x="537.600" y="324.600" r="0.5" />
+<use href="#orbit-node" x="539.533" y="152.133" r="0.5" />
+<use href="#orbit-node" x="540.800" y="323.267" r="0.5" />
+<use href="#orbit-node" x="541.867" y="153.133" r="0.5" />
+<use href="#orbit-node" x="543.933" y="321.867" r="0.5" />
+<use href="#orbit-node" x="544.200" y="154.267" r="0.5" />
+<use href="#orbit-node" x="546.467" y="155.400" r="0.5" />
+<use href="#orbit-node" x="546.933" y="320.267" r="0.5" />
+<use href="#orbit-node" x="548.667" y="156.600" r="0.5" />
+<use href="#orbit-node" x="549.867" y="318.600" r="0.5" />
+<use href="#orbit-node" x="550.867" y="157.900" r="0.5" />
+<use href="#orbit-node" x="552.733" y="316.867" r="0.5" />
+<use href="#orbit-node" x="553.067" y="159.200" r="0.5" />
+<use href="#orbit-node" x="555.133" y="160.600" r="0.5" />
+<use href="#orbit-node" x="555.533" y="315.000" r="0.5" />
+<use href="#orbit-node" x="557.200" y="162.067" r="0.5" />
+<use href="#orbit-node" x="558.200" y="313.133" r="0.5" />
+<use href="#orbit-node" x="559.267" y="163.600" r="0.5" />
+<use href="#orbit-node" x="560.733" y="311.067" r="0.5" />
+<use href="#orbit-node" x="561.267" y="165.200" r="0.5" />
+<use href="#orbit-node" x="563.200" y="166.800" r="0.5" />
+<use href="#orbit-node" x="563.267" y="309.000" r="0.5" />
+<use href="#orbit-node" x="565.133" y="168.467" r="0.5" />
+<use href="#orbit-node" x="565.667" y="306.867" r="0.5" />
+<use href="#orbit-node" x="566.933" y="170.200" r="0.5" />
+<use href="#orbit-node" x="567.933" y="304.667" r="0.5" />
+<use href="#orbit-node" x="568.733" y="172.000" r="0.5" />
+<use href="#orbit-node" x="570.133" y="302.333" r="0.5" />
+<use href="#orbit-node" x="570.533" y="173.867" r="0.5" />
+<use href="#orbit-node" x="572.200" y="175.733" r="0.5" />
+<use href="#orbit-node" x="572.267" y="300.000" r="0.5" />
+<use href="#orbit-node" x="573.867" y="177.667" r="0.5" />
+<use href="#orbit-node" x="574.267" y="297.600" r="0.5" />
+<use href="#orbit-node" x="575.467" y="179.667" r="0.5" />
+<use href="#orbit-node" x="576.200" y="295.200" r="0.5" />
+<use href="#orbit-node" x="577.000" y="181.733" r="0.5" />
+<use href="#orbit-node" x="578.000" y="292.733" r="0.5" />
+<use href="#orbit-node" x="578.533" y="183.800" r="0.5" />
+<use href="#orbit-node" x="579.733" y="290.200" r="0.5" />
+<use href="#orbit-node" x="579.933" y="185.933" r="0.5" />
+<use href="#orbit-node" x="581.333" y="188.067" r="0.5" />
+<use href="#orbit-node" x="581.400" y="287.600" r="0.5" />
+<use href="#orbit-node" x="582.667" y="190.333" r="0.5" />
+<use href="#orbit-node" x="582.933" y="285.000" r="0.5" />
+<use href="#orbit-node" x="583.933" y="192.533" r="0.5" />
+<use href="#orbit-node" x="584.333" y="282.400" r="0.5" />
+<use href="#orbit-node" x="585.133" y="194.867" r="0.5" />
+<use href="#orbit-node" x="585.733" y="279.733" r="0.5" />
+<use href="#orbit-node" x="586.267" y="197.200" r="0.5" />
+<use href="#orbit-node" x="586.933" y="277.067" r="0.5" />
+<use href="#orbit-node" x="587.333" y="199.533" r="0.5" />
+<use href="#orbit-node" x="588.133" y="274.333" r="0.5" />
+<use href="#orbit-node" x="588.333" y="201.933" r="0.5" />
+<use href="#orbit-node" x="589.200" y="271.600" r="0.5" />
+<use href="#orbit-node" x="589.333" y="204.400" r="0.5" />
+<use href="#orbit-node" x="590.200" y="206.867" r="0.5" />
+<use href="#orbit-node" x="590.200" y="268.867" r="0.5" />
+<use href="#orbit-node" x="591.000" y="209.333" r="0.5" />
+<use href="#orbit-node" x="591.067" y="266.133" r="0.5" />
+<use href="#orbit-node" x="591.733" y="211.867" r="0.5" />
+<use href="#orbit-node" x="591.867" y="263.400" r="0.5" />
+<use href="#orbit-node" x="592.467" y="214.400" r="0.5" />
+<use href="#orbit-node" x="592.600" y="260.600" r="0.5" />
+<use href="#orbit-node" x="593.067" y="217.000" r="0.5" />
+<use href="#orbit-node" x="593.267" y="257.800" r="0.5" />
+<use href="#orbit-node" x="593.600" y="219.600" r="0.5" />
+<use href="#orbit-node" x="593.800" y="255.067" r="0.5" />
+<use href="#orbit-node" x="594.067" y="222.267" r="0.5" />
+<use href="#orbit-node" x="594.267" y="252.267" r="0.5" />
+<use href="#orbit-node" x="594.467" y="224.867" r="0.5" />
+<use href="#orbit-node" x="594.667" y="249.467" r="0.5" />
+<use href="#orbit-node" x="594.800" y="227.533" r="0.5" />
+<use href="#orbit-node" x="594.933" y="246.733" r="0.5" />
+<use href="#orbit-node" x="595.067" y="230.267" r="0.5" />
+<use href="#orbit-node" x="595.200" y="243.933" r="0.5" />
+<use href="#orbit-node" x="595.267" y="233.000" r="0.5" />
+<use href="#orbit-node" x="595.333" y="235.667" r="0.5" />
+<use href="#orbit-node" x="595.333" y="238.467" r="0.5" />
+<use href="#orbit-node" x="595.333" y="241.200" r="0.5" />
+
+<!-- Scale arrows. -->
+<g id="left-arrow">
+<path id="left-arrow-a" d="M0 0h18.3" fill="none" stroke="#000" stroke-width="1" stroke-linejoin="round" transform="matrix(1.333,0,0,-1.333,270.133,366.733)" />
+<path id="left-arrow-b" d="M0 0 -2 2 2 0 -2 -2z" fill="#000" transform="matrix(1.333,0,0,-1.333,294.533,366.733)" />
+<path id="left-arrow-c" d="M0 0 2 -2 -2 0 2 2z" fill="#000" transform="matrix(1.333,0,0,-1.333,270.133,366.733)" />
+</g>
+<g id="right-arrow">
+<path id="right-arrow-a" d="M0 0h18.3" fill="none" stroke="#000" stroke-width="1" stroke-linejoin="round" transform="matrix(1.333,0,0,-1.333,477.467,366.8)" />
+<path id="right-arrow-b" d="M0 0 -2 2 2 0 -2 -2z" fill="#000" transform="matrix(1.333,0,0,-1.333,501.867,366.8)" />
+<path id="right-arrow-c" d="M0 0 2 -2 -2 0 2 2z" fill="#000" transform="matrix(1.333,0,0,-1.333,477.467,366.8)" />
+</g>
+
+<!-- "1 AU" and "20 AU" text labels. -->
+<path id="text-labels" fill="#000" d="m270.988 377.787c-.182.158-.397.321-.646.488-.249.163-.514.321-.797.475-.278.149-.563.286-.855.41-.287.12-.562.215-.82.287v1.193c.23-.058.466-.136.705-.236.244-.101.474-.209.689-.324.22-.115.417-.229.59-.344.177-.12.311-.225.402-.316v8.904h1.18v-10.537zm204.215.059c-.589 0-1.09.085-1.502.258-.407.168-.777.413-1.107.734v1.264c.168-.187.347-.356.539-.51.196-.153.399-.284.605-.395.211-.11.426-.197.646-.26.22-.062.446-.094.676-.094.268 0 .516.039.746.115.23.077.43.193.598.352.172.153.307.347.402.582.101.235.15.512.15.828 0 .283-.033.551-.1.805-.062.249-.171.496-.324.74-.153.244-.357.488-.611.732-.249.244-.56.501-.934.77-.518.379-.957.72-1.316 1.021-.355.302-.641.602-.861.904-.22.302-.379.622-.475.957-.096.335-.145.723-.145 1.164v.51h6.361v-1.057h-5.131c0-.278.036-.522.107-.732.077-.216.207-.43.389-.641.187-.216.435-.445.746-.689.316-.244.717-.54 1.201-.885.388-.278.726-.55 1.014-.818.288-.268.524-.55.711-.842.192-.292.333-.603.424-.934.096-.331.145-.7.145-1.107 0-.446-.077-.841-.23-1.186-.149-.345-.354-.634-.617-.869-.264-.235-.576-.413-.936-.533-.359-.125-.75-.186-1.172-.186zm8.23 0c-.561 0-1.06.12-1.496.359-.431.235-.792.587-1.084 1.057-.292.465-.515 1.042-.668 1.732-.149.69-.225 1.484-.225 2.385 0 .819.073 1.548.217 2.186.144.633.355 1.167.633 1.604.278.436.617.768 1.02.998.407.225.869.338 1.387.338.546 0 1.034-.117 1.461-.352.431-.24.792-.588 1.084-1.043.297-.46.522-1.023.676-1.689.158-.666.238-1.430.238-2.293 0-3.522-1.081-5.281-3.242-5.281zm-201.125.172-3.953 10.307h1.346l1.027-2.889h4.369l1.094 2.889h1.336l-3.967-10.307zm6.318 0v6.303c0 2.784 1.251 4.176 3.752 4.176 2.611 0 3.918-1.446 3.918-4.34v-6.139h-1.207v6.332c0 2.041-.862 3.063-2.582 3.063-1.782 0-2.674-1.057-2.674-3.17v-6.225zm206.795 0-3.953 10.307h1.344l1.029-2.889h4.369l1.092 2.889h1.338l-3.969-10.307zm6.318 0v6.303c0 2.784 1.251 4.176 3.752 4.176 2.611 0 3.916-1.446 3.916-4.34v-6.139h-1.207v6.332c0 2.041-.860 3.063-2.58 3.063-1.783 0-2.674-1.057-2.674-3.17v-6.225zm-18.365.826c1.394 0 2.092 1.466 2.092 4.399 0 2.837-.712 4.256-2.135 4.256-1.442 0-2.162-1.392-2.162-4.176 0-2.985.734-4.479 2.205-4.479zm-200.477.424h.029c.053.316.105.548.158.691l1.617 4.391h-3.572l1.604-4.391c.062-.168.116-.399.164-.691zm213.113 0h.029c.053.316.105.548.158.691l1.617 4.391h-3.572l1.602-4.391c.062-.168.118-.399.166-.691z" />
+
+</g>
+</svg>
